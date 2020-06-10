@@ -1,0 +1,10 @@
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csprojAssemblyReference.cache
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\TAC.Sitecore.Abstractions.pdb
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Kernel.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Mvc.Analytics.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\Sitecore.Mvc.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\bin\Debug\Newtonsoft.Json.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.csproj.CopyComplete
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.dll
+D:\Sitecore docs\TAC\events.tac.local\TAC.Sitecore.Abstractions\obj\Debug\TAC.Sitecore.Abstractions.pdb

@@ -1,0 +1,32 @@
+﻿@using events.tac.local.Models
+@using TAC.Utils.Helpers
+
+@model events.tac.local.Models.EventsList
+
+<div class="content-list newslist">
+    <ol class="media-list>
+        @foreach (var item in Model.Events)
+        {@{
+                var url = Sitecore.Links.LinkManager.GetItemUrl(item);
+
+        }
+
+        <li class="media media-align-middle">
+        
+            <div class="media-left">
+                <a href="@item.Url"><img src="Images/Climbing-the-Face-of-Half-Dome.jpg" alt="Female climber rappellling" width="150" height="100" /></a>
+            </div>
+            <div class="media-body">
+                <h3 class="media-heading">
+                    <a href="@item.Url">@item.ContentHeading</a>
+                </h3>
+                <div class="description">
+                    <p>@item.ContentIntro</p>
+                </div>
+            </div>
+            <div class="metadata well">@item.StartDate</div>
+        </li>
+    }
+    </ol>
+</div>
+@Html.Pager(Model.PageSize, Model.TotalResultCount) 
